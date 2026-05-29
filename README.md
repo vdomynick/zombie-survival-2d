@@ -17,7 +17,7 @@ Zombie Survival 2D é um jogo de sobrevivência em arena 2D em GameMaker para Wi
 - Victor Domynick
 
 ## Estrutura do Projeto 
-bin/ -> executavel do jogo
-docs/ -> GDD e MVG
-media/ - > video de apresentação
-src/ -> codigo fonte do projeto
+- bin/ -> executavel do jogo
+- docs/ -> GDD e MVG
+- media/ - > video de apresentação
+- src/ -> codigo fonte do projeto
